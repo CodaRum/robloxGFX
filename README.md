@@ -23,4 +23,11 @@ benefits: able to produce work in quick settings (2 days to 1 week maximum for a
 
 downsides: can lack motivation/have motivational issues (can affect progress and overall efficiency) - can not do more advanced work in Blender due to a lack of personal experience (working on that for now)
 
+[PIXEL ART (MEDALS)]
+
+![Screen Shot 2021-12-16 at 8 47 21 PM](https://user-images.githubusercontent.com/102508876/160354844-2eae3b42-3bf2-40a8-b7a9-816352d7a7f5.png)
+
+![Screen Shot 2021-12-16 at 8 47 29 PM](https://user-images.githubusercontent.com/102508876/160354870-867d7979-b30b-4df5-a13f-e9cf0ff23fcf.png)
+
+
 that should be it, have a nice day
